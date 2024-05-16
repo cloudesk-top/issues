@@ -23,4 +23,9 @@ This repo is an issue tracker for https://cloudesk.top
 
 ## Image apps
 * [Image format converter](https://cloudesk.top/app-imgconv/)
+* [PNG to JPEG](https://cloudesk.top/app-imgconv/)
+* [PNG to PDF](https://cloudesk.top/app-imgconv/)
+* [PNG to ICO](https://cloudesk.top/app-imgconv/)
+* [JPEG to ICO](https://cloudesk.top/app-imgconv/)
+* [JPEG to PDF](https://cloudesk.top/app-imgconv/)
 * [QRCode generator/parser](https://cloudesk.top/app-qrcode/)
