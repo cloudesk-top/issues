@@ -1,4 +1,4 @@
-This repo is an issue tracker for cloudesk.top
+This repo is an issue tracker for https://cloudesk.top
 
 # Feature apps
 
